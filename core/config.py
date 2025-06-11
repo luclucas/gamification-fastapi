@@ -1,0 +1,3 @@
+DATABASE_URL = "sqlite:///./app.db"
+XP_PER_MISSION = 100
+LEVEL_UP_XP = 100
